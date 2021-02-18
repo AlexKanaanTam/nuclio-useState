@@ -1,7 +1,6 @@
-.container {
-    width: 400px;
-    height: 700px;
+.counter {
+    width: 500px;
+    height: 500px;
     margin: auto;
-    background-color: lightgray;
-    padding: 20px 40px;
+    background-color: beige;
 }
