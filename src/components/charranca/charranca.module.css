@@ -1,0 +1,21 @@
+.container {
+    width: 400px;
+    height: 900px;
+    margin: auto;
+    background-color: sandybrown;
+    padding: 20px 40px;
+}
+
+.double_position {
+    display: flex;
+    width: 200px;
+    margin: auto;
+}
+
+.player1 {
+    background-color: aqua;
+}
+
+.player2 {
+    background-color: gold;
+}
